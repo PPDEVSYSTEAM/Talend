@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_lEausWlMEea6JOg7nksLcQ" label="Test_2" description="" language="java" technicalLabel="TEST_2" creationDate="2016-08-23T12:06:50.700-0400" author="_lEausmlMEea6JOg7nksLcQ" productVersion="Talend Studio for Cloud with Data Quality-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/PPDEVSYSTEAM/Talend&quot;,&quot;login&quot;:&quot;PPDEVSYSTEAM&quot;,&quot;passwd&quot;:&quot;nrvs44oZznehhJkoPDJz2jJsSvd18eHO&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ"/>
+  <TalendProperties:User xmi:id="_lEausmlMEea6JOg7nksLcQ" login="chris.brown@ppfa.org" firstName="admin" lastName="admin" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
