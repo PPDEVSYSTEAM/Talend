@@ -167,6 +167,251 @@
       <relatedItems xmi:id="_Rr03bmoSEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Rr03b2oSEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpYcGoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpYcWoUEea-TZSHi_HUEw" id="_zDw6YMZQEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpYcmoUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpYc2oUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYdGoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYdWoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYdmoUEea-TZSHi_HUEw" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYd2oUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYeGoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYeWoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYemoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYe2oUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYfGoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYfWoUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYfmoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYf2oUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYgGoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYgWoUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYgmoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYg2oUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpYhGoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpYhWoUEea-TZSHi_HUEw" id="_yIRigMZQEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpYhmoUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpYh2oUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYiGoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYiWoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYimoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYi2oUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYjGoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYjWoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYjmoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYj2oUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYkGoUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYkWoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYkmoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYk2oUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYlGoUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYlWoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYlmoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpYl2oUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpYmGoUEea-TZSHi_HUEw" id="_QiMjoPisEeSqcJ_0PBlxmQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpYmWoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYmmoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYm2oUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYnGoUEea-TZSHi_HUEw" id="DataMasking" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYnWoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYnmoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYn2oUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYoGoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYoWoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYomoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYo2oUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYpGoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYpWoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYpmoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYp2oUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYqGoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpYqWoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpYqmoUEea-TZSHi_HUEw" id="_xKC_sMZQEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpYq2oUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpYrGoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYrWoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYrmoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYr2oUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYsGoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYsWoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYsmoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYs2oUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYtGoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYtWoUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYtmoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYt2oUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYuGoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYuWoUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYumoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYu2oUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpYvGoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpYvWoUEea-TZSHi_HUEw" id="_0KBX0MZQEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpYvmoUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpYv2oUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYwGoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYwWoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYwmoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYw2oUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYxGoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYxWoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYxmoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYx2oUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYyGoUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYyWoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYymoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYy2oUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYzGoUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYzWoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpYzmoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpYz2oUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpY0GoUEea-TZSHi_HUEw" id="_P68mcMZkEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpY0WoUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpY0moUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY02oUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY1GoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY1WoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY1moUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY12oUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY2GoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY2WoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY2moUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY22oUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY3GoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY3WoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY3moUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY32oUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY4GoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY4WoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpY4moUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpY42oUEea-TZSHi_HUEw" id="_zK0koMZQEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpY5GoUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpY5WoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY5moUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY52oUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY6GoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY6WoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY6moUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY62oUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY7GoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY7WoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY7moUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY72oUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY8GoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY8WoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY8moUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY82oUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY9GoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpY9WoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpY9moUEea-TZSHi_HUEw" id="_cS5t4LXjEeWamvFodVrw-g" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpY92oUEea-TZSHi_HUEw" id="_PPCSoPisEeSqcJ_0PBlxmQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpY-GoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY-WoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY-moUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY-2oUEea-TZSHi_HUEw" id="tic_word_titleCase" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY_GoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY_WoUEea-TZSHi_HUEw" id="Transformation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY_moUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpY_2oUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZAGoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZAWoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZAmoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZA2oUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZBGoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZBWoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZBmoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZB2oUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZCGoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZCWoUEea-TZSHi_HUEw" id="FileListHtmlGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZCmoUEea-TZSHi_HUEw" id="DataTypeUtil" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpZC2oUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpZDGoUEea-TZSHi_HUEw" id="_0D6v0MZQEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpZDWoUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpZDmoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZD2oUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZEGoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZEWoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZEmoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZE2oUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZFGoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZFWoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZFmoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZF2oUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZGGoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZGWoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZGmoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZG2oUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZHGoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZHWoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZHmoUEea-TZSHi_HUEw" id="FTPUtil" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpZH2oUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpZIGoUEea-TZSHi_HUEw" id="_GYYh4LXkEeWamvFodVrw-g" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpZIWoUEea-TZSHi_HUEw" id="_QiMjoPisEeSqcJ_0PBlxmQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpZImoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZI2oUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZJGoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZJWoUEea-TZSHi_HUEw" id="tic_word_titleCase" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZJmoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZJ2oUEea-TZSHi_HUEw" id="Transformation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZKGoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZKWoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZKmoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZK2oUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZLGoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZLWoUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZLmoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZL2oUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZMGoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZMWoUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZMmoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZM2oUEea-TZSHi_HUEw" id="FileListHtmlGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZNGoUEea-TZSHi_HUEw" id="DataTypeUtil" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpZNWoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpZNmoUEea-TZSHi_HUEw" id="_QBJVEMZkEeSB1oQYzkn4CQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpZN2oUEea-TZSHi_HUEw" id="_m3EEIJv3EeSoZ8gYDw5ATQ" version="Latest" type="context"/>
+      <relatedItems xmi:id="_KSpZOGoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZOWoUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZOmoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZO2oUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZPGoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZPWoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZPmoUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZP2oUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZQGoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZQWoUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZQmoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZQ2oUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZRGoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZRWoUEea-TZSHi_HUEw" id="IpaasFileUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZRmoUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZR2oUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
+    <ItemsRelations xmi:id="_KSpZSGoUEea-TZSHi_HUEw">
+      <baseItem xmi:id="_KSpZSWoUEea-TZSHi_HUEw" id="_PPCSoPisEeSqcJ_0PBlxmQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_KSpZSmoUEea-TZSHi_HUEw" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZS2oUEea-TZSHi_HUEw" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZTGoUEea-TZSHi_HUEw" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZTWoUEea-TZSHi_HUEw" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZTmoUEea-TZSHi_HUEw" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZT2oUEea-TZSHi_HUEw" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZUGoUEea-TZSHi_HUEw" id="DqStringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZUWoUEea-TZSHi_HUEw" id="DQ_METHODS" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZUmoUEea-TZSHi_HUEw" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZU2oUEea-TZSHi_HUEw" id="DataQuality" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZVGoUEea-TZSHi_HUEw" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZVWoUEea-TZSHi_HUEw" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZVmoUEea-TZSHi_HUEw" id="DQTechnical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZV2oUEea-TZSHi_HUEw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_KSpZWGoUEea-TZSHi_HUEw" id="DataQualityDependencies" version="Latest" type="routine"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_n0WfsGlMEea6JOg7nksLcQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_n0WfsWlMEea6JOg7nksLcQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_n0WfsmlMEea6JOg7nksLcQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
